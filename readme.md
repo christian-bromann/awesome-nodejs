@@ -706,6 +706,7 @@
 ### Automation
 
 - [robotjs](https://github.com/octalmage/robotjs) - Desktop Automation: control the mouse, keyboard and read the screen.
+- [WebdriverIO](https://github.com/webdriverio/webdriverio) - Next-gen browser automation test framework.
 
 ### AST
 
